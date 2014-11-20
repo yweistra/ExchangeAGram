@@ -22,6 +22,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         NSURLCache.setSharedURLCache(cache)
        
         
+        //test github
+        
         FBLoginView.self
         FBProfilePictureView.self
         
